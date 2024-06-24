@@ -1,0 +1,15 @@
+{
+    "header": {
+        "name": false,
+        "surname": true,
+        "patronymic": true,
+        "address": true
+    },
+    "transaction": {
+        "amount": false
+    },
+    "footer": {
+        "total_counter": false,
+        "control_sum": false
+    }
+}
